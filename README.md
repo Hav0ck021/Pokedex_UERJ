@@ -1,3 +1,3 @@
-# TRABALHO DE ESTRUTURA DE DADOS I
+# PROJETO DE ESTRUTURA DE DADOS I
 
-Criação de uma pokedex utilizando os conceitos aprendidos na disciplína Estrutura de Dados I.
+Criação de uma Pokédex utilizando os conceitos aprendidos na disciplína Estrutura de Dados I.
